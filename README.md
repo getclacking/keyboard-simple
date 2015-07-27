@@ -2,13 +2,14 @@
 
 Designed for use with WASD custom layout (upload the SVG)
 
-# License
+### License
 
-Do whatchaylike...
+You may do whatchyalike
+
+## Layout Preview
 
 ![](keyboard-simple.png)
 
-### In action...
+### In 3D Actual Reality...
 
-![](4AnjIDX.jpg)
-
+![](keyboard-simple-printed.jpg)
