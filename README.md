@@ -7,3 +7,8 @@ Designed for use with WASD custom layout (upload the SVG)
 Do whatchaylike...
 
 ![](keyboard-simple.png)
+
+### In action...
+
+![](4AnjIDX.jpg)
+
