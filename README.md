@@ -4,7 +4,7 @@ Designed for use with WASD custom layout (upload the SVG)
 
 ### License
 
-You may do whatchyalike, but credit where credit is due.
+You may do whatchyalike, but credit / attribution is expected.
 
 ## Layout Preview
 
